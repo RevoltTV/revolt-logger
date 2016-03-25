@@ -1,6 +1,6 @@
 # REVOLT Logging Utility
 
-This logging utility wraps [`node-bunyan`](https://github.com/trentm/node-bunyan#levels)
+This logging utility wraps [`node-bunyan`](https://github.com/trentm/node-bunyan)
 and primarily provides a nicer console output stream for browser environments
 
 # Usage
